@@ -1,0 +1,11 @@
+{
+  "org": "knurling-rs",
+  "repo": "defmt",
+  "versions": [
+    {
+      "commit": "7814e1c6cafbf25a896345fd61327627372df4c6",
+      "tag": "v0.2.0-with-qemu-run-ignore-version",
+      "parsed_at": "2026-11-22T12:06:55.290522+00:00"
+    }
+  ]
+}
